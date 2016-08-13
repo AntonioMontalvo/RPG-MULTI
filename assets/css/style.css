@@ -6,3 +6,18 @@ body {
 	background-color: #2d7497;
 	color: #d7dbf4;
 }
+
+#commentArea{
+margin-top: 40px;
+}
+#chat, #send{
+	margin-top: 10px;
+}
+
+#box1, #box2, #box3{
+	width: 230px;
+	height:200px;
+	background-color: #f5f5f5;
+	margin-top: 50px;
+	margin-bottom: 50px
+;}
