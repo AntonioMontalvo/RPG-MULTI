@@ -6,10 +6,14 @@ body {
 	background-color: #2d7497;
 	color: #d7dbf4;
 }
+#login{
+	text-align: center;
+}
 
 #commentArea{
 margin-top: 40px;
 }
+
 #chat, #send{
 	margin-top: 10px;
 }
